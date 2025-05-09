@@ -48,6 +48,10 @@ open index.html
 - Replace `Naveen` with your name.
 - Update project titles and descriptions.
 - Change color scheme in `styles.css` if desired.
+- change the contact details
+- replace the file in assets folder with your resume.pdf
+- change the links of github & linkedin with your profile links
+- change the profile image by changing the link img tag 
 
 ---
 
