@@ -32,8 +32,8 @@ portfolio-website/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/portfolio-website.git
-cd portfolio-website
+git clone https://github.com/Naveench8486/portfolio.git
+cd portfolio
 ```
 
 ### 2. Open in Browser
